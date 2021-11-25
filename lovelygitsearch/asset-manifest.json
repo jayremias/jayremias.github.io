@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.5ebc5543.chunk.js",
-    "main.js.map": "/static/js/main.5ebc5543.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ef025d45.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ef025d45.js.map",
-    "static/js/2.8b85bb34.chunk.js": "/static/js/2.8b85bb34.chunk.js",
-    "static/js/2.8b85bb34.chunk.js.map": "/static/js/2.8b85bb34.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.8b85bb34.chunk.js.LICENSE.txt": "/static/js/2.8b85bb34.chunk.js.LICENSE.txt",
-    "static/media/bg.7fa45dda.svg": "/static/media/bg.7fa45dda.svg",
-    "static/media/logo.833302db.svg": "/static/media/logo.833302db.svg"
+    "main.js": "/lovelygitsearch/static/js/main.5ebc5543.chunk.js",
+    "main.js.map": "/lovelygitsearch/static/js/main.5ebc5543.chunk.js.map",
+    "runtime-main.js": "/lovelygitsearch/static/js/runtime-main.3a32cc5f.js",
+    "runtime-main.js.map": "/lovelygitsearch/static/js/runtime-main.3a32cc5f.js.map",
+    "static/js/2.a66a0c69.chunk.js": "/lovelygitsearch/static/js/2.a66a0c69.chunk.js",
+    "static/js/2.a66a0c69.chunk.js.map": "/lovelygitsearch/static/js/2.a66a0c69.chunk.js.map",
+    "index.html": "/lovelygitsearch/index.html",
+    "static/js/2.a66a0c69.chunk.js.LICENSE.txt": "/lovelygitsearch/static/js/2.a66a0c69.chunk.js.LICENSE.txt",
+    "static/media/bg.7fa45dda.svg": "/lovelygitsearch/static/media/bg.7fa45dda.svg",
+    "static/media/logo.833302db.svg": "/lovelygitsearch/static/media/logo.833302db.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef025d45.js",
-    "static/js/2.8b85bb34.chunk.js",
+    "static/js/runtime-main.3a32cc5f.js",
+    "static/js/2.a66a0c69.chunk.js",
     "static/js/main.5ebc5543.chunk.js"
   ]
 }
